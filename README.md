@@ -1,2 +1,2 @@
-# DataMiningInWEKA
-This project contains weka mining tools based project
+# Java-Programming Code
+This project contains core and advance java 
